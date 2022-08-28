@@ -9,7 +9,6 @@ radius = 8.0
 height = 0.0
 
 [node name="KinematicBody2D" type="KinematicBody2D"]
-position = Vector2( 224, 147 )
 scale = Vector2( 2, 2 )
 script = ExtResource( 1 )
 
